@@ -1,2 +1,1 @@
-# Music-Recommender
-Music Reccomender System using Python
+# Music_Recommender_System
